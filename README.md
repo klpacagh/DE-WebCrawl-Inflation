@@ -1,3 +1,5 @@
+Credit to: https://github.com/uhussain/WebCrawlerForOnlineInflation
+
 # Table of Contents 
 1. [Introduction](README.md#introduction)
 2. [Pipeline](README.md#pipeline)
